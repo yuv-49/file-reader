@@ -14,14 +14,14 @@ NodeJS Project on reading file
     Args: NA
 
 2. GET /file
-    > Used to get all the file in stream
+    Used to get all the file in stream
     Args: NA
 
 3. GET /file-details
-    > Introduced to fetch various details on file
+    Introduced to fetch various details on file
     ARGS:
-        search: string
-        sentenceCount: boolean
-        occurance: boolean
-        totalWordCount: boolean
-        fileName: string
+        1. search: string
+        2. sentenceCount: boolean
+        3. occurance: boolean
+        4. totalWordCount: boolean
+        5. fileName: string
