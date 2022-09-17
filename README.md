@@ -19,9 +19,4 @@ NodeJS Project on reading file
 
 3. GET /file-details
     Introduced to fetch various details on file
-    ARGS:
-        1. search: string
-        2. sentenceCount: boolean
-        3. occurance: boolean
-        4. totalWordCount: boolean
-        5. fileName: string
+    ARGS: (search: string, sentenceCount: boolean, occurance: boolean, totalWordCount: boolean, fileName: string)
